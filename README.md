@@ -1,6 +1,8 @@
 ### Olá, eu sou o Eliel👋
 
-- 🌱 Estudando JavaScript e Gestão em TI
+- 🤓 Desenvolvedor Front-End 
+- 🌱 Estudando Gestão em Tecnologia da Informação
+-  ☕+💻+❤= </>
 
 
 <div>
