@@ -1,7 +1,7 @@
 ### Olá, eu sou o Eliel👋
 
 - 🤓 Desenvolvedor Front-End 
-- 🌱 Estudando Gestão em Tecnologia da Informação
+- 🌱 Análise e Desenvolvimento de Sistemas
 -  ☕+💻+❤= </>
 
 ##
