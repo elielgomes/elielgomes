@@ -7,15 +7,19 @@
 ##
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=elielgomes&show_icons=true&theme=gruvbox">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elielgomes&layout=compact)">
+ <img src="https://github-readme-stats.vercel.app/api?username=elielgomes&show_icons=true&theme=gruvbox">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elielgomes&layout=compact)">
 </div>
 
- <div style="display: inline-block"><br>
+<div style="display: inline-block"><br>
   <img align="center" width="50 height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" width="50 height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" width="50 height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  </div><br>
+</div>
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+          
+<br>
   
   ##
   
