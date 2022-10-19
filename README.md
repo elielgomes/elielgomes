@@ -13,7 +13,9 @@
 
 ##
 
-![Frame 2aaaaaa](https://user-images.githubusercontent.com/108281436/196706100-03c49128-1ca1-4c8a-b61e-4c220347d7d2.png)
+<div align='center'>
+<img src="https://user-images.githubusercontent.com/108281436/196706100-03c49128-1ca1-4c8a-b61e-4c220347d7d2.png"/>
+ <div/>
 
 <div style="display: inline-block">
  
