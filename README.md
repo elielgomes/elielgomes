@@ -12,6 +12,7 @@
 </div>
 
 
+<br>
 
 <h2 align="center">
   Hard Skills
@@ -23,8 +24,6 @@
 
          
 <br>
-  
-  ##
   
  <h2 align="center">
   Contato
