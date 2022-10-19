@@ -22,10 +22,25 @@
   
   ##
   
- <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-<a href="mailto:elielgomespg@gmail.com"><img width="60" height="20" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="mailto:elielgomespg@hotmail.com"><img width="60" height="20" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+ <h2 align="center">
+  Contato
+ <h2/>
+  
+<div>
+  
+<a href="https://www.linkedin.com/in/eliel-gomes-hyertquist/" target="_blank">
+ <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+<a/>
+ 
+ 
+<a href="mailto:elielgomespg@gmail.com">
+  <img width="60" height="60" src="https://user-images.githubusercontent.com/108281436/196708604-30cdb224-b56c-4599-8c5d-0b9842f3db91.png" />
+ </a>
+ 
+<a href="mailto:elielgomespg@hotmail.com">
+ <img width="60" height="60" src="https://user-images.githubusercontent.com/108281436/196708879-9b543238-4a05-4b37-b01a-27992f16868b.png">
+ </a>
+
 
 ![Snake animation](https://github.com/elielgomes/elielgomes/blob/output/github-contribution-grid-snake.svg)                                                                </div>                                                                             
                                                                                                                                                   
