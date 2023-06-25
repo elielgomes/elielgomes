@@ -10,10 +10,6 @@
  <img  src="https://github-readme-stats.vercel.app/api?username=elielgomes&show_icons=true&theme=dark">
 </div>
 
-<div align="center">
- <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=elielgomes&layout=compact)">
-</div>
-
 <br>
 
 <h2 align="center">
