@@ -1,6 +1,6 @@
 ### Olá, eu sou o Eliel👋
 
-- 🤓 Desenvolvedor Front-End 
+- 🤓 Desenvolvedor Web Full Stack
 - 🌱 Análise e Desenvolvimento de Sistemas
 -  ☕+💻+❤= </>
 
