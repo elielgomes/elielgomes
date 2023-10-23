@@ -23,6 +23,8 @@
 
 ## My Skills
 
+<div align="center">
+ 
 <span min-width="400px" max-width="400px" width="400px" >
  
 #### Main Stacks:
@@ -46,6 +48,7 @@
 ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
  
 </span>
+</div>
 
 #### Styles:
 
