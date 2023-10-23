@@ -33,7 +33,7 @@
 
 ## My Skills
 
-<div align="center">
+<div align="start">
 
 #### Main Stacks:
 
