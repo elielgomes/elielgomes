@@ -15,13 +15,12 @@
  <img align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=elielgomes&show_icons=true&theme=radical&layout=compact" min-width="400px" max-width="400px" width="400px" />
  &nbsp;
  &nbsp;
+ &nbsp;
+ &nbsp;
  <img align="center" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" alt="Computador">
 
 </div>
  
- &nbsp;
- &nbsp;
-
 ## My Skills
 
 #### Main Stacks:
