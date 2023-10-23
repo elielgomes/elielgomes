@@ -1,6 +1,5 @@
 
-<img align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" max-height="200px" min-width="100%" max-width="100%" width="100%" alt="Banner" style="object-fit: cover; object-position:bottom;" />
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Banner" style="object-fit: cover; object-position: bottom;" />
+<img align="end" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" max-height="200px" min-width="100%" max-width="100%" width="100%" alt="Banner" />
 
 <p align="start">
  Olá seja bem vindo(a) ao meu perfil!
