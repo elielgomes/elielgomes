@@ -54,10 +54,6 @@
 <a href="mailto:elielgomespg@hotmail.com">
  <img width="60" height="60" src="https://user-images.githubusercontent.com/108281436/196708879-9b543238-4a05-4b37-b01a-27992f16868b.png">
  </a>
-
-
-![Snake animation](https://github.com/elielgomes/elielgomes/blob/output/github-contribution-grid-snake.svg)          
-![snake animation](https://github.com/elielgomes/elielgomes/blob/output/github-contribution-grid-snake2.svg)
-
+       
 </div>                                                                             
                                                                                                                                                   
