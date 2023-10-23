@@ -1,7 +1,15 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/elielgomes/elielgomes/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="start">
+ Olá seja bem vindo(a) ao meu perfil!
+</p>
+<p align="start">
+ Meu nome é Eliel, tenho 22 anos e sou desenvolvedor web, tenho experiência atuando no mercado utilizando: Typescript, Javascript, NodeJs, C#, .NET, ReactJs, NextJs, MobX, Git, Github, Gitlab e Linux, além de metodologias como SCRUM, Atomic Design e Clean Code e ferramentas de design como Photoshop e Figma. 
+</p>
+<p aling="start">
+ Me considero uma pessoa ágil e consistente quando se trata de aprendizado, consigo me adaptar muito bem a mudanças e estou disposto a enfrentar qualquer desafio!
+</p>
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=elielgomes&theme=radical&mode=weekly" />
@@ -10,8 +18,6 @@
  
  &nbsp;
  &nbsp;
-
-
 
 ## My Skills
 
