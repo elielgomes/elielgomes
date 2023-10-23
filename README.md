@@ -56,5 +56,8 @@
  </a>
 
 
-![Snake animation](https://github.com/elielgomes/elielgomes/blob/output/github-contribution-grid-snake.svg)                                                                </div>                                                                             
+![Snake animation](https://github.com/elielgomes/elielgomes/blob/output/github-contribution-grid-snake.svg)          
+![snake animation](https://github.com/elielgomes/elielgomes/blob/output/github-contribution-grid-snake2.svg)
+
+</div>                                                                             
                                                                                                                                                   
