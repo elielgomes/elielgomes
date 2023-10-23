@@ -4,7 +4,7 @@
  Olá seja bem vindo(a) ao meu perfil!
 </p>
 <p align="start">
- Meu nome é Eliel, tenho 22 anos e sou desenvolvedor web, tenho experiência atuando no mercado utilizando: Typescript, Javascript, NodeJs, C#, .NET, ReactJs, NextJs, MobX, Git, Github, Gitlab e Linux, além de metodologias como SCRUM, Atomic Design e Clean Code e ferramentas de design como Photoshop e Figma. 
+ Meu nome é Eliel, tenho 22 anos e sou desenvolvedor web, tenho experiência trabalhando no mercado com diversas tecnologias. Fique à vontade para explorar meus projetos, contribuir e tirar dúvidas. Estou sempre aberto a novas ideias e colaborações.
 </p>
 <p aling="start">
  Me considero uma pessoa ágil e consistente quando se trata de aprendizado, consigo me adaptar muito bem a mudanças e estou disposto a enfrentar qualquer desafio!
