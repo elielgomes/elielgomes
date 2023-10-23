@@ -19,8 +19,8 @@
  &nbsp;
  &nbsp;
  <img align="center" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" alt="Computador">
-
 </div>
+
 
 ## Contacts:
 <div> 
@@ -31,7 +31,8 @@
 </div>&nbsp;&nbsp;
  
 
-## My Skills
+## My Skills: 
+ <img align="center" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="50px" alt="Gif">
 
 <div align="start">
 
