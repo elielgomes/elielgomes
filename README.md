@@ -2,7 +2,7 @@
 # Olá seja bem vindo(a) ao meu perfil!
 
 <img align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" max-height="200px" min-width="100%" max-width="100%" width="100%" alt="Banner" />
-<img align="center" src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" object-fit="cover" max-height="200px" height="200px" min-width="100%" max-width="100%" width="100%" alt="Banner" />
+<img align="center" src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" alt="Banner" width="100%" height="200px"  />
 
 <p align="start">
  Meu nome é Eliel, tenho 22 anos e sou desenvolvedor web, tenho experiência trabalhando no mercado com diversas tecnologias. Fique à vontade para explorar meus projetos, contribuir e tirar dúvidas. Estou sempre aberto a novas ideias e colaborações.
