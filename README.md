@@ -7,7 +7,7 @@
  Meu nome é Eliel, tenho 22 anos e sou desenvolvedor web, tenho experiência trabalhando no mercado com diversas tecnologias. Fique à vontade para explorar meus projetos, contribuir e tirar dúvidas. Estou sempre aberto a novas ideias e colaborações.
 </p>
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=elielgomes&theme=radical&mode=weekly" />
+
 
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=elielgomes&show_icons=true&theme=radical&layout=compact" />
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
