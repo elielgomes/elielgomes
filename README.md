@@ -6,10 +6,6 @@
 <p align="start">
  Meu nome é Eliel, tenho 22 anos e sou desenvolvedor web, tenho experiência trabalhando no mercado com diversas tecnologias. Fique à vontade para explorar meus projetos, contribuir e tirar dúvidas. Estou sempre aberto a novas ideias e colaborações.
 </p>
-<p aling="start">
- Me considero uma pessoa ágil e consistente quando se trata de aprendizado, consigo me adaptar muito bem a mudanças e estou disposto a enfrentar qualquer desafio!
-</p>
-
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=elielgomes&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=elielgomes&show_icons=true&theme=radical&layout=compact" />
