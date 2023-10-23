@@ -23,7 +23,7 @@
 
 ## My Skills
 
-<div min-width="400px" max-width="400px" width="400px" >
+<span min-width="400px" max-width="400px" width="400px" >
  
 #### Main Stacks:
 
@@ -32,10 +32,10 @@
 ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 ![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 
-</div>
+</span>
 
 
-<div min-width="400px" max-width="400px" width="400px" >
+<span min-width="400px" max-width="400px" width="400px" >
  
 #### Frameworks:
 
@@ -45,7 +45,7 @@
 ![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
 ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
  
-</div>
+</span>
 
 #### Styles:
 
