@@ -28,11 +28,11 @@
 <a href = "mailto:elielgomespg@hotmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>&nbsp;
 <a href="https://www.linkedin.com/in/eliel-gomes-hyetquist/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> &nbsp;
 
-</div>&nbsp;&nbsp;
- 
+</div>
+&nbsp;&nbsp;
+<img width=100% src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
 
 ## My Skills: 
- <img align="center" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="50px" alt="Gif">
 
 <div align="start">
 
@@ -116,5 +116,3 @@
 &nbsp;
     
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
-<img width=100% src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
-<img width=100% src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif"/>
